@@ -1,1 +1,5 @@
 User-agent: *
+Allow: /
+
+Sitemap: https://kirya522.tech/sitemap.xml
+Host: kirya522.tech

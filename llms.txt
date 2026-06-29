@@ -1,0 +1,42 @@
+# kirya522.tech
+
+> Author's engineering blog by Kirill Grishchuk with Russian and English articles about backend development, high-load systems, observability, performance, testing, databases, architecture, and engineering productivity.
+
+## Core pages
+
+- [Home](https://kirya522.tech/): engineering blog homepage and featured articles.
+- [Articles](https://kirya522.tech/posts/): all published posts.
+- [Tags](https://kirya522.tech/tags/): topic index.
+- [About Kirill Grishchuk](https://kirya522.tech/about/): author profile and contacts.
+
+## Articles
+- [Эффективная пагинация: OFFSET, cursor и компромисс с UI](https://kirya522.tech/posts/effective-pagination/): Разбираем, почему LIMIT/OFFSET начинает тормозить на больших таблицах, как помогает cursor pagination и когда нужен гибридный подход с виртуальными страницами.
+- [Выбор базы данных под задачу](https://kirya522.tech/posts/database-types/): Узнайте, как выбрать из различных видов баз данных именно необходимую для конкретной задачи.
+- [Синхронная и асинхронная коммуникация в сервисах](https://kirya522.tech/posts/sync-async-communication/): Изучите различия между синхронной и асинхронной коммуникацией в распределенных системах и как они влияют на производительность и масштабируемость сервисов.
+- [Алерты: Настройка и Тюнинг для максимальной Эффективности](https://kirya522.tech/posts/alert-tuning/): Узнайте, как правильно настроить и оптимизировать алерты для повышения производительности. Полезные советы, техники тюнинга и лучшие практики
+- [SQL оптимизация](https://kirya522.tech/posts/sql-optimization/): Подробное руководство по SQL-оптимизации: методы повышения производительности запросов, индексы, анализ выполнения и лучшие практики для работы с базами данных.
+- [Секреты кэширования с примерами](https://kirya522.tech/posts/caching-base/): Узнайте о лучших практиках кэширования с практическими примерами для оптимизации производительности ваших приложений.
+- [99.99% Project: Достижение высокой доступности и надежности](https://kirya522.tech/posts/99-99-project/): Узнайте, как достичь доступности 99.99% в проекте: от правильной архитектуры до масштабируемости, отказоустойчивости и планирования аварийных ситуаций для обеспечения бесперебойной работы сервисов. Как обрабатывать 5 млн изменяющихся форм в минуту с SLI 99.99%
+- [Ведение лога архитектурных решений](https://kirya522.tech/posts/adr/): Понимание важности и методов ведения лога архитектурных решений для улучшения процесса разработки
+- [Все, что нужно знать о System Design Interview](https://kirya522.tech/posts/all-about-system-design/): Подготовьтесь к интервью по системному дизайну с помощью этого подробного руководства.
+- [Профилирование сценария по трейсам с прода](https://kirya522.tech/posts/profiling-by-traces-on-prod/): Изучите методы профилирования производительности приложений без отдельного перфоманс теста
+- [Как сделать принтер сетевым для печати с телефона](https://kirya522.tech/posts/online-printer/): Пошаговое руководство по превращению вашего принтера в сетевое устройство для удобной печати с мобильных устройств.
+- [Тестирование изменений сервиса через shadow-трафик](https://kirya522.tech/posts/critical-changes-in-highload-service/): Узнайте, как эффективно тестировать изменения в сервисах, используя метод shadow-трафика.
+- [Чеклист проверки компании для программиста](https://kirya522.tech/posts/company-checklist/): Полезный чеклист для программистов при оценке потенциальных работодателей и компаний.
+- [Универсальный план изучения новых технологий](https://kirya522.tech/posts/universal-learning-plan/): Структурированный подход к освоению новых технологий для эффективного профессионального развития.
+- [Как развиваться разработчику](https://kirya522.tech/posts/self-development-plan/): Советы и рекомендации для разработчиков по профессиональному и личностному росту в IT-индустрии.
+- [Основные вопросы с Java собеседований](https://kirya522.tech/posts/interview/): Подборка часто задаваемых вопросов на собеседованиях по Java и рекомендации по подготовке к ним.
+- [Про логирование с примерами](https://kirya522.tech/posts/logging/): Практическое руководство по эффективному логированию в приложениях с реальными примерами.
+- [Как проводить Code Review: 5 советов](https://kirya522.tech/posts/code-review/): Пять ключевых советов для проведения качественного code review и улучшения качества кода.
+- [Что такое API и зачем это нужно](https://kirya522.tech/posts/api-integrations/): Объяснение концепции API, его роли в разработке и примеры использования в современных приложениях
+- [Правила хорошего UNIT-теста](https://kirya522.tech/posts/unit-tests/): Основные принципы написания качественных юнит-тестов для обеспечения надежности и поддерживаемости кода.
+- [Запуск Spring Boot приложения в Docker](https://kirya522.tech/posts/spring-boot-docker/): Пошаговое руководство по контейнеризации Spring Boot приложений с использованием Docker для упрощения развертывания.
+- [Automatic Calendars Syncronization Mechanism](https://kirya522.tech/posts/calendars-syncronization/): How to sync two google calendar into one
+- [Metrics collection in Spring](https://kirya522.tech/posts/metrics-en/): How to collect spring boot application metrics
+- [Сбор метрик в Spring](https://kirya522.tech/posts/metrics-ru/): Руководство по интеграции и сбору метрик в Spring-приложениях для мониторинга и анализа производительности.
+- [Консультации и услуги](https://kirya522.tech/posts/services/): Для желающих оказываю консультационные услуги
+
+## Feeds and discovery
+
+- [Sitemap](https://kirya522.tech/sitemap.xml): XML sitemap for search engines.
+- [RSS](https://kirya522.tech/index.xml): latest posts feed.
